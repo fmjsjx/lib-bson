@@ -1,3 +1,5 @@
+require 'bson'
+
 module BSON
 
   # Injects behaviour for BSON::Document.
